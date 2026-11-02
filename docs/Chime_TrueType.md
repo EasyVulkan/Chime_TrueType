@@ -3,7 +3,7 @@
 **Chime_TrueType.h** 仅负责字体的解析和字形栅格化。<br>
 负责栅格化的函数无需你调用，此页面上不做说明。
 
-关于排版和打印的功能，参见 [Chime_TextPrinter.h 参考文档](docs/Chime_TextPrinter.md) 。
+关于排版和打印的功能，参见 [Chime_TextPrinter.h 参考文档](Chime_TextPrinter.md) 。
 
 ## `class ttfLoader`
 

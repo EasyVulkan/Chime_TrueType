@@ -4,7 +4,7 @@
 
 附属的 **Chime_TextPrinter** 提供横向文本排版功能。
 
-> **由于作者很忙，文档将在11月完成。**
+> **由于作者很忙，文档将在11月底完成。**
 
 > **English document is currently in progress. Will be finished before 2027/01/01.**
 
@@ -23,8 +23,8 @@
 
 ###
 
-* [Chime_TrueType.h 参考文档](docs/Chime_TrueType.md)
-* [Chime_TextPrinter.h 参考文档](docs/Chime_TextPrinter.md)
+* [Chime_TrueType.h 参考文档](Chime_TrueType.md)
+* [Chime_TextPrinter.h 参考文档](Chime_TextPrinter.md)
 
 ## 功能与特性
 
@@ -32,7 +32,7 @@
 
 * 提供与 [stb_truetype.h](https://github.com/nothings/stb) 大致相同的功能，详见 [#对比 stb_truetype](#对比-stb_truetype)
 * 在CPU上的高速字形栅格化，哪怕是SDF也能快速生成，详见 [#性能](#性能)
-* 可以将渲染完的全套字形及相关信息压缩后保存到文件，用于之后快速加载，详见 [#存盘和加载](docs/Chime_TrueType.md#存盘和加载)
+* 可以将渲染完的全套字形及相关信息压缩后保存到文件，用于之后快速加载，详见 [#存盘和加载](Chime_TrueType.md#存盘和加载)
 * 提供高层级的封装，非常易用
 * 顾名思义的函数和变量命名，几乎不使用缩写，易于理解代码逻辑
 
